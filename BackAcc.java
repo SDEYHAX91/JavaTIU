@@ -1,3 +1,6 @@
+/*Create a Bank account class with attributes acc_no, acc_holder_name and balance. Bank
+account class has setter and getter methods for all the attributes. Implement methods to
+deposit and withdraw money as well as a method to display the account details.*/
 class Bank{
     long acc_no;
     float balance;
