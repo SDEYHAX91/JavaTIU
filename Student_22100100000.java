@@ -10,6 +10,10 @@ public class Student {
     private String id;
     private int marks;
 
+     public Student(){
+        this.id = "221001000000";
+        this.marks = 0;
+    }
     public Student(String last4Digits, String name, int marks) {
         this.id = "211001" + last4Digits;
         this.marks = marks;
