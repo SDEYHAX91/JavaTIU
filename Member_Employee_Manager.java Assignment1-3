@@ -1,4 +1,4 @@
-/*Create a class named &#39;Member&#39; having the following members:
+/*Create a class named Member having the following members:
 Data members:
 1. Name
 2. Age
@@ -6,8 +6,8 @@ Data members:
 4. Address
 5. Salary
 It also has a method named &#39;printSalary&#39; which prints the salary of the members.
-Two classes &#39;Employee&#39; and &#39;Manager&#39; inherits the &#39;Member&#39; class. The &#39;Employee&#39; and &#39;Manager&#39;
-classes have data members &#39;specialization&#39; and &#39;department&#39; respectively. Now, assign name, age,
+Two classes Employee and Manager inherits the Member class. The Employee and Manager
+classes have data members specialization and department respectively. Now, assign name, age,
 phone number, address and salary to an employee and a manager by making an object of both of these classes and print the same.*/
 
 class Member {
