@@ -1,3 +1,8 @@
+/*Create an interface Worker with a method void work(). Implement two classes,
+Engineer and Artist, both implementing the Worker interface. Write a method
+performWork(Worker worker) that takes a Worker object as a parameter and calls its work
+method. Demonstrate this in the main method.*/
+
 interface Worker {
     void work();
 }
