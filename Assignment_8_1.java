@@ -1,3 +1,9 @@
+/*Define an interface called Calculator with the following methods:
+ int add(int a, int b);
+ int subtract(int a, int b);
+Implement a class SimpleCalculator that implements the Calculator interface. In the main
+method, create an instance of SimpleCalculator and demonstrate the use of both methods.*/
+
 import java.util.Scanner;
 
 interface Calculator{
