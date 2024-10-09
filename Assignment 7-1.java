@@ -5,6 +5,7 @@ Implement abstract methods:
 ● calculateArea()
 Create concrete subclasses Circle and Rectangle that inherit from Shape and implement the
 calculateArea() method accordingly.*/
+
 abstract class Shape {
     protected String color;
     protected double area;
